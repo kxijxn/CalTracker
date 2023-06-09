@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377671731245",
+    "project_id": "testing-4db97",
+    "storage_bucket": "testing-4db97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377671731245:android:dd9dfd49d2afeaf81b50a4",
+        "android_client_info": {
+          "package_name": "com.example.caltracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377671731245-npcftrk2g13h0ou0ag6n2qh33kj8g0mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjcHpfYOqMAzTCwrdR-NP4FADlfR44DzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377671731245-npcftrk2g13h0ou0ag6n2qh33kj8g0mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
